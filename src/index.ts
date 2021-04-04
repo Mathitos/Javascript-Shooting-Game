@@ -1,4 +1,4 @@
-import "./style.scss";
+import './style.scss'
 
 const canvas = document.querySelector('canvas')
 
